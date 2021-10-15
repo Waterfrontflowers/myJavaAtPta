@@ -1,2 +1,4 @@
 # myJavaAtPta
-在pta上的Java学习作业
+在PTA上的Java学习作业
+
+使用的IDE为IDEA
